@@ -1,1 +1,1 @@
-# Edutech-courses
+# Main page with courses and filters 
